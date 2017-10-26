@@ -1,0 +1,72 @@
+#bodyAdmin{
+    background-color: white;
+    color:5599EE; 
+     
+} 
+#bodyvalider{
+    background-color: white;
+    color:EE8855;
+}
+.titre {
+    width : 180 ; 
+    clear:left;
+    float:left; } 
+.zone { 
+    float : left; 
+    color:7091BB;
+}
+.titreValid{ width : 180 ;
+            clear:left; 
+            float:left; 
+} 
+.zoneValid { float : left;
+            color:CC8855 ;
+}
+#gauche{
+         clear:left;
+         float:left;
+         width:18%; 
+         background-color:white; 
+         height:100%;
+}
+#droite{
+    float:left;
+    width:80%;
+}
+#haut{
+    float:left;
+    width:80%;
+}
+#hautValid{margin: 2 2 2 2 ;
+           height:10%; 
+           float:left;
+}
+
+#bas{
+   margin :10px 2px 2px 2px;
+   clear:left;
+   background-color:#77AADD;
+   color:white;
+   height:100%;
+}
+#basValid{
+    margin : 10 2 2 2;
+    clear:left;
+    background-color:EE8844;
+    color:white;
+    height:88%;
+}
+#coin{
+    height:10%;
+    text-align:center;
+}
+
+table{
+    color:white;
+    border:1;
+ 
+}  
+
+#mois{
+    color: black;
+}
